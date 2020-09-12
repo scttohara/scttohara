@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on a machine learning algorithm project
-- 🌱 I’m currently learning how to love myself better, and how to use Apache data science tools better
+- 🌱 I’m currently learning how to love myself better, and how to use Apache data science tools more effectively
 - 😄 Pronouns: he/him
 - 👯 I’m looking to collaborate on mental health based, Software as a Medical Device, and/or algorithm based projects
 
