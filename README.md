@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him.
 - 👯 I’m looking to collaborate on mental health based, Software as a Medical Device, and/or algorithm based projects.
 
-- Heres how you make one of these yourself https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme#adding-a-profile-readme
+- Heres how you make one of these (A profile README) yourself https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme#adding-a-profile-readme
