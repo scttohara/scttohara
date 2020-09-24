@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on building a website with Python/Django/Graphql/not-sure-about-storage/etc yet...I just have a few command line games written already that I think would be pretty fun through a web browser once that is working i'll have a link here...Additionally, I'm working on a machine learning algorithm project.
+- 🔭 I’m currently working on building a website with Python/Django/Graphql/not-sure-about-storage/etc yet...I just have a few command line games written already that I think would be pretty fun through a web browser. Once that is working I'll have a link here...Additionally, I'm working on a machine learning algorithm project.
 
 - 🌱 At the moment I'm learning more Python, graphQL, more SQL, figuring out next steps in which database to learn, hoping the above-mentioned projects will help with that decision.
 
