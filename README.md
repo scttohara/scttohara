@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building a website with Python/Django/Graphql/not-sure-about-storage/etc because I have a few command line games written that I think would be pretty fun through a web browser...Additionally, I'm working on a machine learning algorithm side project
+- 🔭 I’m currently working on building a website with Python/Django/Graphql/not-sure-about-storage/etc because I have a few command line games written that I think would be pretty fun through a web browser (i.e. the python_card_game, US_states-capitals_game, and one or two others). When it is up and working I'll have a link here 
 - 🌱 I’m currently learning how to love myself better
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on building a website with Python/Django/Graphql/not-sure-about-storage/etc yet...I just have a few command line games written already that I think would be pretty fun through a web browser. Once that is working I'll have a link here...Additionally, I'm working on a machine learning algorithm project.
+- 🔭 I’m currently working on building a website with Python/Django/Graphql/not-sure-about-storage/etc because I have a few command line games written that I think would be pretty fun through a web browser (i.e. the python_card_game, US_states-capitals_game, and one or two others). When it is up and working I'll have a link here
 
 - 🌱 At the moment I'm learning more Python, graphQL, more SQL, figuring out next steps in which database to learn, hoping the above-mentioned projects will help with that decision.
 
