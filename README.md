@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on building a website with Python/Django/Graphql/not-sure-about-storage/etc because I have a few command line games written that I think would be pretty fun through a web browser (i.e. the python_card_game, US_states-capitals_game, and one or two others). When it is up and working I'll have a link here
 
-- 🌱 At the moment I'm learning more Python, graphQL, more SQL, figuring out next steps in which database to learn, hoping the above-mentioned projects will help with that decision.
+- 🔭 I’m currently working on building a website with Python/Django/Graphql/not-sure-about-storage/etc because I have a few command line games written that I think would be pretty fun through a web browser (i.e. the python_card_game, US_states-capitals_game, and one or two others). When it is up and working I'll have a link here. Additionally, I am working on HackerRank, Euler project, and Leetcode problems to get better at problem solving with job interview type questions.
+
+- 🌱 At the moment I'm learning more Python, graphQL, more SQL, figuring out next steps in which database to learn, hoping the above-mentioned projects will help with that decision. 
 
 - 😄 Pronouns: he/him.
 
