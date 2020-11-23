@@ -19,6 +19,8 @@ Here are some ideas to get you started:
   1. building a website with Python/Flask/Graphql/AWS/PostgreSQL (this is the stack as of now) because I want to get more familiar with backend issues/work. Luckily, I have a few command line games written that I think would be pretty fun through a web browser (i.e. the python_card_game, US_states-capitals_game, and one or two other repos I have here). When it is up and working I'll have a link here!! 
   
   1. Additionally, I am working on HackerRank, Euler project, and Leetcode problems to get better at problem solving with job interview type questions.
+  
+  1. Finally, I'm studying for the AWS SAA-C02. Hoping to take the exam before the New Year.
 
 - 🌱 At the moment I'm learning more Python, graphQL, more SQL, figuring out next steps in which database to learn, hoping the above-mentioned projects will help with that decision. 
 
