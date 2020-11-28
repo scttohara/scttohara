@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on:
-  1. building a website that I'll link here when it's up and running. and Working on @M3ntalHealthBot on twitter. Check it out if you have a minute.
+  1. Building a project that I'll link here when it's up and running. Working on @M3ntalHealthBot on twitter. Check it out if you have a minute.
    
-  1. I'm studying for the AWS SAA-C02. Hoping to take the exam before the New Year.
+  1. Finally, I'm studying for the AWS SAA-C02. Hoping to take the exam before the New Year.
 
 - 🌱 At the moment I'm learning more Python, graphQL, more SQL, more database and AWS.
 
