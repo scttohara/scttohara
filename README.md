@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 Hey!! At the moment I'm working on projects mostly using Python, SQL, and C#.
+- 🌱 At the moment I'm working on projects mostly using Python, SQL, and C#.
 
 - 😄 Pronouns: he/him.
 
