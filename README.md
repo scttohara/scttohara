@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 At the moment I'm learning more Python, graphQL, more SQL, more database and AWS.
+- 🌱 Hey!! At the moment I'm working on projects mostly using Python, SQL, and C#.
 
 - 😄 Pronouns: he/him.
 
-- 👯 I’m looking to collaborate on any project with python involved, anything mental health, Software as a Medical Device, and/or food based I love to get involved. Just message me on Linkedin (https://www.linkedin.com/in/scott-ohara/)
+- 👯 I’m looking to collaborate on any project with python involved, anything business, mental health, and/or food based I would love to get involved. Just message me here on github.
 
-- Heres how you make one of these (A profile README) yourself https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme#adding-a-profile-readme
+- Want to make your own README like this? Heres how you can make one (A profile README) yourself https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme#adding-a-profile-readme
