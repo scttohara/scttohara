@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: he/him.
 
-- 👯 I’m looking to collaborate on any project with python involved, anything business, mental health, and/or food based I would love to get involved. Just message me here on github.
+- 👯 I’m looking to collaborate on any project with python involved, anything business, mental health, weather, and/or food based I would love to get involved. Just message me here on github.
 
 - Want to make your own README like this? Heres how you can make one (A profile README) yourself https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme#adding-a-profile-readme
