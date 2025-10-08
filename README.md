@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 At the moment I'm working on projects mostly using Python, SQL.
+- 🌱 At the moment I'm working on projects mostly using Python, SQL, and Tableau.
 
 - 👯 I’m looking to collaborate on any project with python involved, anything business, mental health, weather, and/or food based I would love to get involved. Just message me here on github.
 
